@@ -4,12 +4,15 @@
 
 const axios = require('axios');
 // const BASEPATH = 'https://marvelapiwrapper.herokuapp.com';
-const BASEPATH = 'https://github.com/TavaresDev/jsonTest/blob/master/products.json';
+const BASEPATH = 'https://tavaresdev.github.io/jsonTest/dailydeals.json';
+
 
 exports.find = async () => {
-  const path = `${BASEPATH}/characters`;
+  const path = `MOCK_DATA.json`;
+  dealInfo = jsonObj['dailyDeals'];
 
   const { data } = await axios.get(path);
 //   data.map(e => e.thumbnail = this.getThumbnailLink(e.thumbnail));
   return data;
 };
+
