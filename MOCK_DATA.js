@@ -1,4 +1,4 @@
-[{"id":1,"first_name":"Holly","age":21,"catch_phrase":"Multi-lateral multimedia encoding","avatar":"https://robohash.org/velperferendisiste.jpg?size=50x50&set=set1"},
+module.exports = [{"id":1,"first_name":"Holly","age":21,"catch_phrase":"Multi-lateral multimedia encoding","avatar":"https://robohash.org/velperferendisiste.jpg?size=50x50&set=set1"},
 {"id":2,"first_name":"Karoly","age":79,"catch_phrase":"Quality-focused fresh-thinking challenge","avatar":"https://robohash.org/etnesciuntmolestiae.png?size=50x50&set=set1"},
 {"id":3,"first_name":"Oby","age":40,"catch_phrase":"Public-key actuating toolset","avatar":"https://robohash.org/ullamautet.bmp?size=50x50&set=set1"},
 {"id":4,"first_name":"Gunner","age":57,"catch_phrase":"Cross-platform motivating algorithm","avatar":"https://robohash.org/quibusdamexneque.png?size=50x50&set=set1"},
